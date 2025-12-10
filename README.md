@@ -64,7 +64,7 @@ your-project/
 │ └── appError.js
 │
 ├── middleware/
-│ └── errorHandler.js ← NEW
+│ └── errorHandler.js
 │
 └── node_modules/
 
